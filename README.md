@@ -1,5 +1,4 @@
-# practica
-repositorio de practica
+
 {
 "id":"pb0054",
 "name":"rosa flore del aguila",
